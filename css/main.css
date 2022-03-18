@@ -24,6 +24,10 @@ body {
 .budget-feedback,
 .expense-feedback {
   display: none;
+  /* padding: 20px; */
+  padding: 10px;
+  margin-bottom: 0.3rem;
+  /* background-color: #af4c27; */
 }
 
 .budget-form {
