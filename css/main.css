@@ -118,13 +118,13 @@ body {
   color: #af4c27 !important;
 }
 .showRed {
-  color: var(--mainRed);
+  color: #f77225;
 }
 .showGreen {
-  color: var(--mainGreen);
+  color: greenyellow;
 }
 .showBlack {
-  color: var(--mainDark);
+  color: #cfc1c1;
 }
 @media screen and (min-width: 992px) {
   .budget {
