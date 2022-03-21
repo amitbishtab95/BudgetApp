@@ -70,22 +70,22 @@ body {
   color: orange;
 }
 .edit-icon {
-  color: var(--mainBlue);
+  color: white;
   cursor: pointer;
   font-size: 1rem;
   text-decoration: none !important;
 }
 .delete-icon {
-  color: var(--mainRed);
+  color: white;
   cursor: pointer;
   font-size: 1rem;
   text-decoration: none !important;
 }
 .edit-icon:hover {
-  color: var(--mainBlue);
+  color: #fafd50;
 }
 .delete-icon:hover {
-  color: var(--mainRed);
+  color: #fafd50;
 }
 .showItem {
   display: block;
